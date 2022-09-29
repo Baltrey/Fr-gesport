@@ -1,0 +1,15 @@
+C:\Users\baltazar.biverstal\Documents\Programering1\Frågesport\Frågesport\bin\Debug\net6.0\Frågesport.exe
+C:\Users\baltazar.biverstal\Documents\Programering1\Frågesport\Frågesport\bin\Debug\net6.0\Frågesport.deps.json
+C:\Users\baltazar.biverstal\Documents\Programering1\Frågesport\Frågesport\bin\Debug\net6.0\Frågesport.runtimeconfig.json
+C:\Users\baltazar.biverstal\Documents\Programering1\Frågesport\Frågesport\bin\Debug\net6.0\Frågesport.dll
+C:\Users\baltazar.biverstal\Documents\Programering1\Frågesport\Frågesport\bin\Debug\net6.0\Frågesport.pdb
+C:\Users\baltazar.biverstal\Documents\Programering1\Frågesport\Frågesport\obj\Debug\net6.0\Frågesport.csproj.AssemblyReference.cache
+C:\Users\baltazar.biverstal\Documents\Programering1\Frågesport\Frågesport\obj\Debug\net6.0\Frågesport.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\baltazar.biverstal\Documents\Programering1\Frågesport\Frågesport\obj\Debug\net6.0\Frågesport.AssemblyInfoInputs.cache
+C:\Users\baltazar.biverstal\Documents\Programering1\Frågesport\Frågesport\obj\Debug\net6.0\Frågesport.AssemblyInfo.cs
+C:\Users\baltazar.biverstal\Documents\Programering1\Frågesport\Frågesport\obj\Debug\net6.0\Frågesport.csproj.CoreCompileInputs.cache
+C:\Users\baltazar.biverstal\Documents\Programering1\Frågesport\Frågesport\obj\Debug\net6.0\Frågesport.dll
+C:\Users\baltazar.biverstal\Documents\Programering1\Frågesport\Frågesport\obj\Debug\net6.0\refint\Frågesport.dll
+C:\Users\baltazar.biverstal\Documents\Programering1\Frågesport\Frågesport\obj\Debug\net6.0\Frågesport.pdb
+C:\Users\baltazar.biverstal\Documents\Programering1\Frågesport\Frågesport\obj\Debug\net6.0\Frågesport.genruntimeconfig.cache
+C:\Users\baltazar.biverstal\Documents\Programering1\Frågesport\Frågesport\obj\Debug\net6.0\ref\Frågesport.dll
